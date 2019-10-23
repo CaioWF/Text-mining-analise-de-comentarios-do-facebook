@@ -1,0 +1,23 @@
+Número de comentários por região
+
+Massacre de Suzano:
+	Norte:
+		Positivos: 14;
+		Negativos: 67;
+		Neutros: 65.
+	Nordeste:
+		Positivos: 10;
+		Negativos: 27;
+		Neutros: 26.
+	Centro Oeste:
+		Positivos: 1;
+		Negativos: 16;
+		Neutros: 13.
+	Sudeste:
+		Positivos: 74;
+		Negativos: 382;
+		Neutros: 301.
+	Sul:
+		Positivos: 19;
+		Negativos: 111;
+		Neutros: 67.

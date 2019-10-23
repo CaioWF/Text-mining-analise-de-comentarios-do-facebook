@@ -1,0 +1,23 @@
+Número de comentários por região
+
+Reforma da Previdência:
+	Norte:
+		Positivos: 35;
+		Negativos: 91;
+		Neutros: 79.
+	Nordeste:
+		Positivos: 77;
+		Negativos: 220;
+		Neutros: 224.
+	Centro Oeste:
+		Positivos: 42;
+		Negativos: 132;
+		Neutros: 120.
+	Sudeste:
+		Positivos: 124;
+		Negativos: 206;
+		Neutros: 254.
+	Sul:
+		Positivos: 59;
+		Negativos: 148;
+		Neutros: 121.

@@ -1,0 +1,11 @@
+Número de comentários por notícia
+
+Notícia: Massacre de Suzano
+Positivos: 118;
+Negativos: 603;
+Neutros: 472.
+
+Notícia: Reforma da Previdência
+Positivos: 337;
+Negativos: 796;
+Neutros: 798.
